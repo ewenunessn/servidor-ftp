@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    
+    <!-- Background circle -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M24,2C12.95,2 4,10.95 4,22s8.95,20 20,20s20,-8.95 20,-20S35.05,2 24,2z" />
+    
+    <!-- Server boxes -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M14,16h20v6H14z" />
+    
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M14,26h20v6H14z" />
+    
+    <!-- Connection indicators -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M16,18h2v2h-2z" />
+    
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M16,28h2v2h-2z" />
+</vector>
